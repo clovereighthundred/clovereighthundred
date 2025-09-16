@@ -6,9 +6,9 @@
 
 ## What's good? 🤙
 
-<p align="center">
-  I'm Adefela, a **Frontend developer with 2+ years of experience** skilled in **modern web technologies including React, TypeScript/JavaScript and Tailwind CSS** ⚡. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity tools**.  
-</p>
+---
+
+I'm Adefela, a **Frontend developer with 2+ years of experience** skilled in **modern web technologies including React, TypeScript/JavaScript and Tailwind CSS** ⚡. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity tools**.
 
 ---
 
@@ -43,7 +43,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adefela&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adefela&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![clovereighthundred's Stats](https://github-readme-stats.vercel.app/api?username=clovereighthundred&theme=radical&show_icons=true&hide_border=true&count_private=true)
