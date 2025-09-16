@@ -2,9 +2,17 @@
   <img src="assets/yutaokkotsu2.gif" alt="Animated Banner" />
 </p>
 
+<div align="center">
+
 ## What's good? 🤙
 
+</div>
+
+<div align="center">
+
 **I'm Adefela, a Frontend developer with 2+ years of experience** skilled in **modern web technologies including React, TypeScript/JavaScript and Tailwind CSS**. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity tools**.
+
+</div>
 
 - 🌱 Currently learning **Next.js** and **Framer Motion.**
 - 🤝 Looking for help with **advanced state management techniques**.
@@ -31,5 +39,5 @@
 
 ## 📊 GitHub Stats
 
-![clovereighthundred's Stats](https://github-readme-stats.vercel.app/api?username=clovereighthundred&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![clovereighthundred's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clovereighthundred&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovereighthundred&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=clovereighthundred&theme=nightowl)](https://git.io/streak-stats)
