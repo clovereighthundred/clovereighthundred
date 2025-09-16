@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**I'm Adefela, a Frontend developer with 2+ years of experience** skilled in **modern web technologies including React, TypeScript/JavaScript and Tailwind CSS**. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity tools**.
+**I'm Adefela, a Frontend developer with 2+ years of experience**, skilled in modern web technologies including **React, TypeScript/JavaScript and Tailwind CSS**. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity**.
 
 </div>
 
