@@ -4,13 +4,13 @@
 
 <div align="center">
 
-## What's good? 🤙
+## What's good? 🤙🏾
 
 </div>
 
 <div align="center">
 
-**I'm Adefela, a Frontend developer with 2+ years of experience**, skilled in modern web technologies including **React, TypeScript/JavaScript and Tailwind CSS**. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity**.
+## **I'm Adefela, a Frontend developer with 2+ years of experience**, skilled in modern web technologies including **React, TypeScript/JavaScript and Tailwind CSS**. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity**.
 
 </div>
 
@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Next.js** and **Framer Motion.**
 - 🤝 Looking for help with **advanced state management techniques**.
 - 💡 Passionate about **frontend development and UI/UX Design**
-- ⚡ : Fun Fact: I am a massive Formula 1 fan.🏁
+- ⚡ Fun Fact: I am a massive Formula 1 fan.🏁
 
 ## 🛠️ Tech Stack
 
