@@ -14,6 +14,7 @@
 
 </div>
 
+
 - 🌱 Currently learning **Next.js** and **Framer Motion.**
 - 🤝 Looking for help with **advanced state management techniques**.
 - 💡 Passionate about **frontend development and UI/UX Design**
