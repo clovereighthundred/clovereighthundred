@@ -18,7 +18,7 @@
 - 🌱 Currently learning **Next.js** and **Framer Motion.**
 - 🤝 Looking for help with **advanced state management techniques**.
 - 💡 Passionate about **frontend development and UI/UX Design**
-- ⚡ Fun Fact: I am a massive Formula 1 fan.🏁
+- ⚡ Fun Fact: I am a massive Formula 1 fan. 🏁
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,8 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovereighthundred&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clovereighthundred&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=clovereighthundred&theme=elegant&border_radius=5" alt="GitHub Streak" /></a>
+</p>
