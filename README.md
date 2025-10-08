@@ -10,23 +10,23 @@
 
 <div align="center">
 
-### **I'm Adefela, a Frontend developer with 2+ years of experience**, skilled in modern web technologies including **React, TypeScript/JavaScript and Tailwind CSS**. I enjoy building **user-centric applications** and exploring the intersection of **tech, design, and productivity**.
+### Frontend Developer experienced in React, TypeScript, and Tailwind CSS, creating intuitive, efficient, and visually engaging web apps.
 
 </div>
 
 
-- 🌱 Currently learning **Next.js** and **Framer Motion.**
+- 🌱 I'm currently learning Next.js and Framer Motion.
 
-- 🤝 Looking for help with **advanced state management techniques**.
+- 🤝 Looking for help with advanced state management techniques.
 
-- 💡 Passionate about **frontend development and UI/UX Design**
+- 💡 I'm very passionate about UI/UX Design.
 
-- ⚡ Fun Fact: I am a massive Formula 1 fan. 🏁
+- ⚡ Fun Fact: I'm a massive Formula 1 fan. 🏁
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="/">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,postgres,mongodb,supabase,git" />
   </a>
 </p>
