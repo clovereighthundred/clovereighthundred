@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Frontend Developer experienced in React, TypeScript, and Tailwind CSS, creating intuitive, efficient, and visually engaging web apps.
+### I'm Adefela, a Frontend Developer experienced in React, TypeScript, and Tailwind CSS, creating intuitive, efficient, and visually engaging web apps.
 
 </div>
 
