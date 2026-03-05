@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="assets/yutaokkotsu2.gif" alt="Animated Banner" />
-</p>
+</p>-->
 
 <div align="center">
 
