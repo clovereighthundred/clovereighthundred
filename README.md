@@ -2,28 +2,20 @@
   <img src="assets/yutaokkotsu2.gif" alt="Animated Banner" />
 </p>-->
 
-<div align="center">
-
-## What's good? 🤙🏾
-
-</div>
 
 <div align="center">
 
-### I'm Adefela, a Frontend Developer experienced in React, TypeScript, and Tailwind CSS, building cool stuff on the web.
+I'm Adefela, frontend dev and Information Systems student @ CU.
 
 </div>
 
+About me:
 
-- 🌱 I'm currently learning Next.js and Framer Motion.
+- open-source enthusiast
+- really passionate about interactive and user-centric design
+- currently building Fetch*
 
-- 🤝 Looking for help with advanced state management techniques.
-
-- 💡 I'm very passionate about UI/UX Design.
-
-- ⚡ Fun Fact: I'm a massive Formula 1 fan. 🏁
-
-## 🛠️ Tools
+## tools
 
 <p align="center">
   <a href="">
