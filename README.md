@@ -3,7 +3,7 @@
 </p>-->
 
 
-<div align="center">
+<div>
 
 I'm Adefela, frontend dev and Information Systems student @ CU.
 
