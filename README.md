@@ -13,7 +13,7 @@ About me:
 
 - open-source enthusiast
 - really passionate about interactive and user-centric design
-- currently building Fetch*
+- currently building __Fetch*__
 
 ## tools
 
