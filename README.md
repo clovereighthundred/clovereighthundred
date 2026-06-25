@@ -19,7 +19,7 @@ About me:
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,postgres,mongodb,supabase,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nextjs,postgres,mongodb,supabase,git" />
   </a>
 </p>
 
